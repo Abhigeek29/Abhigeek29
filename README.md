@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abhigyan Sahoo
 
-🚀 Software Engineer | Incoming Digital Specialist Engineer @ Infosys  
+🚀 Software Engineer | Upcoming Digital Specialist Engineer @ Infosys  
 💻 Full Stack Developer | Real-Time Systems | AI-Integrated Applications  
 
 💡 Building scalable systems + solving complex problems with clean architecture
