@@ -102,8 +102,19 @@ Data Structures & Algorithms | System Design (HLD + LLD) | OOP | SOLID Principle
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Add your link]
-- 💻 GitHub: https://github.com/Abhigeek29  
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhigyan-sahoo-0b312b24a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhigyan%20Sahoo-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://leetcode.com/u/Code_Master_supreme/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Code_Master_supreme-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+
+  <a href="https://github.com/Abhigeek29" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Abhigeek29-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
