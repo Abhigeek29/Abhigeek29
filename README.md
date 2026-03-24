@@ -27,7 +27,7 @@
 </p>
 
 - 🧠 Solved 350+ problems on LeetCode  
-- 📈 Contest Rating: 1490  
+- 📈 Contest Rating: 1594  
 - 🔥 Consistent problem solving with focus on DSA & Dynamic Programming  
 
 ---
